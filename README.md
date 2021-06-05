@@ -29,6 +29,7 @@
 - [Codeforces](http://codeforces.com/contests)
 - [Codechef](https://www.codechef.com)
 - [Leetcode](https://leetcode.com)
+- [GeeksForGeeks](https://geeksforgeeks.org)
 - [AtCoder](https://atcoder.jp/contests/)
 - [TopCoder](https://www.topcoder.com)
 - [SPOJ](https://www.spoj.com/users/lebron/)
@@ -61,6 +62,7 @@
 - [Pramp](https://www.pramp.com/#/)
 - [interviewing.io](https://interviewing.io)
 - [12 Week Programme - Leetcode](https://docs.google.com/document/d/1wUCqhVHydWiDk6FJdFLSMpgigNrGcs4OFZg0Wa7JGEw/)
+- [Microsoft Interview Questions](https://www.geeksforgeeks.org/microsofts-asked-interview-questions/)
 
 ## Online Coding Hackathons and Competitions
 - [Google Kickstart](https://codingcompetitions.withgoogle.com/kickstart)
