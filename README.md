@@ -43,7 +43,7 @@
 
 ## Contest Details: 
 - [Clist](https://clist.by/)
-- 
+
 ## Problem Solving Books: 
 - A Path to Combinatorics for Undergraduates
 - Competitive Programmers Handbook - Antti Laaksonen - July 2018
