@@ -1,6 +1,7 @@
 # Resources for Competitive Programming, Interview Prep, System Design, & Problem Solving.
 
 ## Problems & Tips
+
 - [CSES](https://cses.fi/problemset/)
 - [CP-Algorithms](https://cp-algorithms.com)
 - [DP Questions](https://atcoder.jp/contests/dp/tasks)
@@ -32,15 +33,28 @@
 - [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh)
 - [TechWorld with Nana](https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA)
 - [Will Kwan](https://www.youtube.com/channel/UCTjPBE9BNsmv44wgxWEy2zw)
+- [William Lin](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q)
+- [Keith Galli](https://www.youtube.com/c/KGMIT/featured)
+- [Joma Tech](https://www.youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw)
+- [george hotz archive](https://www.youtube.com/channel/UCwgKmJM4ZJQRJ-U5NjvR2dg)
+- [maria sitkovets](https://www.youtube.com/channel/UCyrF_lsKS9kQ3OUKQkgYh3A)
+- [The Coding Train](https://www.youtube.com/user/shiffman)
+- [Asto Way](https://www.youtube.com/channel/UCQ2zUgxOwo5lzX11maTQmng)
+- [Kenny Gunderman](https://www.youtube.com/c/KennyGunderman/featured)
+- [Gerard Taylor](https://www.youtube.com/user/gerardonfiya/featured)
+- [mCoding](https://www.youtube.com/channel/UCaiL2GDNpLYH6Wokkk1VNcg)
+- [Derek Banas](https://www.youtube.com/c/derekbanas/featured)
 
 
 ## System Design
+
 - [Gaurav Sen](https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 - [system-design-primer](https://github.com/donnemartin/system-design-primer)
 - [Mock Interview](https://www.youtube.com/watch?v=VJpfO6KdyWE)
 - [Machine Coding Round Practice](https://workat.tech/practice)
 
 ## Platforms to Practice: 
+
 - [Codeforces](http://codeforces.com/contests)
 - [Codechef](https://www.codechef.com)
 - [Leetcode](https://leetcode.com)
@@ -57,9 +71,11 @@
 - [Binarysearch](https://binarysearch.com/)
 
 ## Contest Details: 
+
 - [Clist](https://clist.by/)
 
 ## Problem Solving Books: 
+
 - A Path to Combinatorics for Undergraduates
 - Competitive Programmers Handbook - Antti Laaksonen - July 2018
 - Competitive Programming 3 - The New Lower Bound of Programming Contests
@@ -74,12 +90,14 @@
 
 
 ## Interview Prep
+
 - [Pramp](https://www.pramp.com/#/)
 - [interviewing.io](https://interviewing.io)
 - [12 Week Programme - Leetcode](https://docs.google.com/document/d/1wUCqhVHydWiDk6FJdFLSMpgigNrGcs4OFZg0Wa7JGEw/)
 - [Microsoft Interview Questions](https://www.geeksforgeeks.org/microsofts-asked-interview-questions/)
 
 ## Online Coding Hackathons and Competitions
+
 - [Google Kickstart](https://codingcompetitions.withgoogle.com/kickstart)
 > Kick Start is a global online coding competition, consisting of three-hour rounds of a variety of algorithmic challenges designed by Google engineers. Participants can compete in one or all online rounds held throughout the year, and will have the opportunity to develop and grow their programming abilities while getting a glimpse into the technical skills needed for a career at Google (top participants may be invited to interview at Google).
 
