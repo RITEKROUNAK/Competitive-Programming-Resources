@@ -109,3 +109,9 @@
 
 - [Facebook Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup/)
 > Hacker Cup is Facebook's annual open programming competition. Open to participants around the world, we invite you to apply problem-solving and algorithmic coding skills to advance through each year’s online rounds, win prizes, and have a chance to make it to the global finals and win the grand prize.
+
+## Thanks to all the contributors ❤️✨
+<a href = "https://github.com/RITEKROUNAK/Competitive-Programming-Resources/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=RITEKROUNAK/Competitive-Programming-Resources"/>
+</a>
+
